@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(123, 238, 123);
+    color: rgb(251, 243, 243);
+
+}
+.Profile{
+    background-color: orange;
+    color: white;
+}
+.education{
+    background-color: rgb(231, 227, 10);
+    color: white;
+}
+.Academic{
+    background-color: rgb(223, 212, 57);
+    color: white;
+}
+.hobbies{
+    background-color: gold;
+    color: white;
+}
+.dec{
+    background-color: violet;
+    color: white;
+}
